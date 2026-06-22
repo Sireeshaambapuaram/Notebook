@@ -15,7 +15,7 @@ const app = express();
 // ----------- Middlewares ----------
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://notebook-1-1sy0.onrender.com",
+  "https://notebook-1-3o9c.onrender.com",
 ];
 
 app.use(
