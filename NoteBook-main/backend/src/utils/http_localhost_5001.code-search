@@ -1,0 +1,5 @@
+# Query: http://localhost:5001
+# ContextLines: 1
+
+VITE_APP_CONTACT_URL=https://notebook-7759.onrender.com/contact
+VITE_APP_API_KEY=https://notebook-7759.onrender.com/api/v1
